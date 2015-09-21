@@ -176,7 +176,7 @@ class Icepay_Webservice_Base extends Icepay_Api_Base {
         $sslContext = array(
             'ssl' => array(
                 'allow_self_signed' => false,
-                'verify_peer' => true
+                'verify_peer' => false /* Temporary fix */
             )
         );
 

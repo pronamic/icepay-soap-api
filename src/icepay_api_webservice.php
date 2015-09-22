@@ -700,6 +700,21 @@ class Icepay_Webservice_Filtering {
     }
 
     /**
+     * Check if payment method is available.
+     *
+     * @param $pmCode
+     * @return bool
+     */
+    public function isPaymentMethodAvailable($pmCode) {
+        foreach ($this->_paymentMethodsArrayFiltered as $value) {
+            if ($value['PaymentMethodCode'] == $pmCode)
+                return true;
+        }
+
+        return false;
+    }
+
+    /**
      * Filter the paymentmethods array by amount
      * @since 2.1.0
      * @access public

@@ -1,5 +1,11 @@
 ![ICEPAY](https://camo.githubusercontent.com/49043ebb42bd9b98941d6013761d4aadcd33f14f/68747470733a2f2f6963657061792e636f6d2f6e6c2f77702d636f6e74656e742f7468656d65732f6963657061792f696d616765732f6865616465722f6c6f676f2e737667)
 
+# This repo is deprecated
+
+New implementations should use the ICEPAY REST API and its available clients.
+[PHP REST client](https://github.com/ICEPAYdev/REST-API-PHP)
+[.NET REST client](https://github.com/ICEPAYdev/REST-API-NET)
+
 # ICEPAY PHP API
 
 [![Latest Stable Version](https://poser.pugx.org/icepay/icepay/v/stable.svg)](https://packagist.org/packages/icepay/icepay)

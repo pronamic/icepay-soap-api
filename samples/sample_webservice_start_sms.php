@@ -7,7 +7,7 @@
  *  @version 1.0.0
  *  @author Olaf Abbenhuis
  *  @author Wouter van Tilburg
- *  @copyright Copyright (c) 2011-2012, ICEPAY
+ *  @copyright Copyright (c) 2011-2018, ICEPAY
  *
  *  Disclaimer:
  *  These sample scripts are used for training purposes only and

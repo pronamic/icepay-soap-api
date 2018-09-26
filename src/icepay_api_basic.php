@@ -6,7 +6,7 @@
  *  @version 2.3.0
  *  @author Olaf Abbenhuis
  *  @author Wouter van Tilburg
- *  @copyright Copyright (c) 2012, ICEPAY
+ *  @copyright Copyright (c) 2012-2018, ICEPAY
  *
  */
 // Define constants
@@ -37,7 +37,7 @@ require_once(DIR . DS . "icepay_api_base.php");
 class Icepay_Api_Basic extends Icepay_Api_Base {
 
     private static $instance;
-    private $version = "2.5.3";
+    private $version = "2.5.4";
     private $_folderPaymentMethods;
     private $paymentMethods = null; // Classes
     private $_paymentMethodsObject = null; // Loaded classes
@@ -244,7 +244,7 @@ class Icepay_Api_Basic extends Icepay_Api_Base {
  * @package API_Basicmode_Basicmode
  * @author Wouter van Tilburg 
  * @author Olaf Abbenhuis 
- * @copyright Copyright (c) 2011-2012, ICEPAY  
+ * @copyright Copyright (c) 2011-2018, ICEPAY
  */
 class Icepay_Basicmode extends Icepay_Api_Base {
 

@@ -9,7 +9,7 @@
  * 
  * @author Wouter van Tilburg 
  * @author Olaf Abbenhuis 
- * @copyright Copyright (c) 2011-2012, ICEPAY  
+ * @copyright Copyright (c) 2012-2018, ICEPAY
  */
 class Icepay_Order_Helper {
 
@@ -145,7 +145,7 @@ class Icepay_Order_Helper {
  * 
  * @author Wouter van Tilburg 
  * @author Olaf Abbenhuis
- * @copyright Copyright (c) 2011-2012, ICEPAY
+ * @copyright Copyright (c) 2011-2018, ICEPAY
  */
 class Icepay_Order_Product {
 
@@ -273,7 +273,7 @@ class Icepay_Order_Product {
  * 
  * @author Wouter van Tilburg 
  * @author Olaf Abbenhuis
- * @copyright Copyright (c) 2011-2012, ICEPAY
+ * @copyright Copyright (c) 2011-2018, ICEPAY
  */
 class Icepay_Order_Address {
 
@@ -456,7 +456,7 @@ class Icepay_Order_Address {
  * 
  * @author Wouter van Tilburg
  * @author Olaf Abbenhuis
- * @copyright Copyright (c) 2011-2012, ICEPAY
+ * @copyright Copyright (c) 2011-2018, ICEPAY
  */
 class Icepay_Order_Consumer {
 
@@ -538,7 +538,7 @@ class Icepay_Order_Consumer {
  * 
  * @author Wouter van Tilburg 
  * @author Olaf Abbenhuis 
- * @copyright Copyright (c) 2011-2012, ICEPAY
+ * @copyright Copyright (c) 2011-2018, ICEPAY
  */
 class Icepay_Order {
 

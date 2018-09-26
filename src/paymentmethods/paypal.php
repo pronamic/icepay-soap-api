@@ -2,7 +2,7 @@
 
 class Icepay_Paymentmethod_Paypal extends Icepay_Paymentmethod
 {
-    public $_version       = "2.5.3";
+    public $_version       = "2.5.4";
     public $_method        = "PAYPAL";
     public $_readable_name = "PayPal";
     public $_issuer        = array('DEFAULT');

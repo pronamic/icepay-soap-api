@@ -3,10 +3,10 @@
 /**
  *  ICEPAY API
  *
- *  @version 2.5.3
+ *  @version 2.5.4
  *  @author Olaf Abbenhuis
  *  @author Wouter van Tilburg
- *  @copyright Copyright (c) 2012, ICEPAY
+ *  @copyright Copyright (c) 2012-2018, ICEPAY
  *
  */
 // Define constants
@@ -35,7 +35,7 @@ class Icepay_Api_Webservice extends Icepay_Api_Base {
     private $_service_autoCapture;
     private $_filtering;
     private $_single;
-    protected $version = "2.5.3";
+    protected $version = "2.5.4";
 
     /**
      * Create an instance
@@ -2347,7 +2347,7 @@ class Icepay_Webservice_Reporting extends Icepay_Webservice_Base {
  * 
  * @version 1.0.0
  * @author Wouter van Tilburg <wouter@icepay.eu>
- * @copyright Copyright (c) 2012, ICEPAY
+ * @copyright Copyright (c) 2012-2018, ICEPAY
  */
 class Icepay_Webservice_AutoCapture extends Icepay_Webservice_Base {
 

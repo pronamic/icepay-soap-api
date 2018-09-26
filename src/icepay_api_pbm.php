@@ -8,7 +8,7 @@ require_once(realpath(dirname(__FILE__)) . DIRECTORY_SEPARATOR . 'icepay_api_bas
  * 
  * @since 1.0.0
  * @author Wouter van Tilburg
- * @copyright Copyright (c) 2013, ICEPAY
+ * @copyright Copyright (c) 2013-2018, ICEPAY
  */
 interface Icepay_PbmObject_Interface_Abstract {
 
@@ -46,7 +46,7 @@ interface Icepay_PbmObject_Interface_Abstract {
  * 
  * @version 1.0.0
  * @author Wouter van Tilburg
- * @copyright Copyright (c) 2013, ICEPAY
+ * @copyright Copyright (c) 2013-2018, ICEPAY
  *
  */
 class Icepay_Api_Pbm extends Icepay_Api_Base {
@@ -160,7 +160,7 @@ class Icepay_Api_Pbm extends Icepay_Api_Base {
  *
  * @version 1.0.0
  * @author Wouter van Tilburg
- * @copyright Copyright (c) 2013, ICEPAY
+ * @copyright Copyright (c) 2013-2018, ICEPAY
  *
  */
 class Icepay_Pbm_Object implements Icepay_PbmObject_Interface_Abstract {
